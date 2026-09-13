@@ -46,4 +46,6 @@ Presentation: The presentation of our team.
 
 # Visualisations
 
-This bar chart shows the 
+This bar chart shows the performance of our discount groups in comparison to products sold without discount.
+
+![Total Sales](Visualizations/Total_sales.png)

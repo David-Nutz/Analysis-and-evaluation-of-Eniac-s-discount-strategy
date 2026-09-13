@@ -46,3 +46,4 @@ Presentation: The presentation of our team.
 
 # Visualisations
 
+This bar chart shows the 

@@ -38,11 +38,17 @@ Data visualization: Matplotlib, Seaborn
 
 README: Project documentation
 
-Final_Data_cleaning: The entire data cleaning process conducted by our team.
+Dataset: The Dataframes used in this project.
 
-Final_quality_assesement: Date and time conversions and final preparations for the visualizations.
+Notebooks:
 
-Visualizations: Building visualizations for our final presentation.
+1. Final_Data_cleaning: The entire data cleaning process conducted by our team.
+
+2. Final_quality_assesement: Date and time conversions and final preparations for the visualizations.
+
+3. Visualizations: Building visualizations for our final presentation.
+
+Visualizations: Visualizations used in the README document.
 
 Presentation: The presentation created by our team.
 

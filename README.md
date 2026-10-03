@@ -1,6 +1,10 @@
 # Analysis-and-evaluation-of-Eniac-s-discount-strategy
 
-Our team evaluated Eniac's current discount strategy and was tasked with determining whether the current strategy should be abandoned or changed. After an intensive data cleaning and preparation phase, followed by our analysis, we came to the conclusion that the current discount strategy should be adjusted.
+This project was developed as part of the Data Analytics course at WBS Coding School. Together with my team, I worked as a Data Analyst for the fictional company Eniac.
+
+Eniac specializes in the distribution of high-priced Apple products and is planning to expand into the Brazilian market. In this project, our team was tasked with evaluating Eniac's current discount strategy and determining whether it was achieving its intended goals or needed to be adjusted.
+
+After an intensive data cleaning and preparation phase, we analysed the relationship between discounts, sales performance, product prices and seasonal patterns. Based on our findings, we came to the conclusion that Eniac's current discount strategy should be adjusted.
 
 #Dataset
 

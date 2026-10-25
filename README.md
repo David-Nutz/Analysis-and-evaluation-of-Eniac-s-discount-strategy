@@ -64,7 +64,7 @@ This bar chart shows the performance of our discount groups compared to products
 
 The following graphic shows that the current discount strategy disregards seasonality and the increased customer consumption during November and December. 
 
-
+![Seasonality](./Visualizations/Seasonality.png)
 
 This graphic shows that, in the case of most product categories sold by Eniac, discounts of 10–20% perform best.
 

@@ -6,7 +6,7 @@ Eniac specializes in the distribution of high-priced Apple products and is plann
 
 After an intensive data cleaning and preparation phase, we analysed the relationship between discounts, sales performance, product prices and seasonal patterns. Based on our findings, we came to the conclusion that Eniac's current discount strategy should be adjusted.
 
-#Dataset
+# Dataset
 
 orders: List of all orders and the price paid by the customers.
 
